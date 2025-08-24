@@ -2,7 +2,7 @@
 
 echo "== create bucket"
 #check for bucket name
-
+#test
 if [ -z "$1" ]; then
   echo "there  needs to be a bucket name eg  ./bucket my-bucket-name"
   echo "Usage: $0 <input>"
